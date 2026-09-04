@@ -111,3 +111,10 @@ Obrigada por visitar meu perfil! ❤️
 
 Se você gostou de algum projeto, fique à vontade para explorar meus
 repositórios.
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliapvieira/juliapvieira/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliapvieira/juliapvieira/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/juliapvieira/juliapvieira/output/snake.svg">
+</picture>
