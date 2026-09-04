@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Júlia%20Pardim%20Vieira&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="./banner.png" width="100%"/>
 
 </div>
 
@@ -163,7 +163,7 @@ Meu objetivo é continuar desenvolvendo minhas habilidades na área de tecnologi
 
 ---
 
-<!-- ======================= SITE ======================= -->
+<!-- ======================= MEU SITE ======================= -->
 
 <div align="center">
 
@@ -171,7 +171,7 @@ Meu objetivo é continuar desenvolvendo minhas habilidades na área de tecnologi
 
 <a href="https://juliapvieira.github.io/meuperfil/">
 
-<img src="https://img.shields.io/badge/Acessar%20meu%20site-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Acessar%20meu%20site-8A2BE2?style=for-the-badge"/>
 
 </a>
 
