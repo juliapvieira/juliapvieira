@@ -97,12 +97,12 @@ me permitam aplicar meus conhecimentos e aprender novas tecnologias.
 
 ![GitHub Stats] (https://github.com/juliapvieira)
 
-## Meu site 
-![Meu site](https://juliapvieira.github.io/meuperfil/)
+## Meu site
+
+[ Acesse meu site](https://juliapvieira.github.io/meuperfil/)
 
 ## Entre em contato comigo
-
-**LinkedIn:** [https://www.linkedin.com/in/j%C3%BAlia-pardim-vieira-914825412/]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlia-pardim-vieira-914825412/)
 
 **GitHub:** [https://github.com/juliapvieira]
 
