@@ -98,7 +98,7 @@ me permitam aplicar meus conhecimentos e aprender novas tecnologias.
 ![GitHub Stats] (https://github.com/juliapvieira)
 
 ## Meu site 
-![Meu site](http://127.0.0.1:5501/index.html)
+![Meu site](https://juliapvieira.github.io/meuperfil/)
 
 ## Entre em contato comigo
 
