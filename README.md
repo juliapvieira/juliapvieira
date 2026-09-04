@@ -102,7 +102,7 @@ me permitam aplicar meus conhecimentos e aprender novas tecnologias.
 
 **LinkedIn:** [https://www.linkedin.com/in/j%C3%BAlia-pardim-vieira-914825412/]
 
-**GitHub:** [@juliapvieira](https://github.com/juliapvieira)
+**GitHub:** [https://github.com/juliapvieira]
 
 
 Obrigada por visitar meu perfil! ❤️
