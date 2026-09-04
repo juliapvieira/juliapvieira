@@ -103,8 +103,7 @@ me permitam aplicar meus conhecimentos e aprender novas tecnologias.
 
 ## Entre em contato comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlia-pardim-vieira-914825412/)
-
-**GitHub:** [https://github.com/juliapvieira]
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/juliapvieira)
 
 
 Obrigada por visitar meu perfil! ❤️
