@@ -24,7 +24,7 @@ e transformar meus conhecimentos em projetos cada vez mais completos.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### Banco de Dados
 
@@ -42,6 +42,8 @@ e transformar meus conhecimentos em projetos cada vez mais completos.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
+## Próxima Tecnologia a ser estudada 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Projetos
 
@@ -93,10 +95,10 @@ me permitam aplicar meus conhecimentos e aprender novas tecnologias.
 
 ## GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapvieira&show_icons=true&theme=tokyonight)
+![GitHub Stats] (https://github.com/juliapvieira)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliapvieira&layout=compact&theme=tokyonight)
-
+## Meu site 
+![Meu site](http://127.0.0.1:5501/index.html)
 
 ## Entre em contato comigo
 
