@@ -93,9 +93,6 @@ tecnologia, adquirindo experiência prática e participando de projetos que
 me permitam aplicar meus conhecimentos e aprender novas tecnologias.
 
 
-## GitHub
-
-![GitHub Stats] (https://github.com/juliapvieira)
 
 ## Meu site
 
